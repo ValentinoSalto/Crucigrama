@@ -1,0 +1,13 @@
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe.config
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\bin\Debug\Crucigrama.pdb
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\bin\Debug\Crucigrama.xml
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Form1.resources
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Resources.resources
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.GenerateResource.cache
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.exe
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.xml
+C:\Users\Valen\Desktop\Calculadora\Crucigrama\Crucigrama\obj\Debug\Crucigrama.pdb
